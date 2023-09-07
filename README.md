@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+<h1>Brandon's the name, and coding is *usually* the game!</h1>
+
+<h2>I'm currently in the process of learning, but here are the languages I already have experience in:</h2>
+<ul>
+  <li> ![alt text](../images/html5.jpg) </li>
+</ul>
+
 <!--
 **aardvark-park/aardvark-park** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
