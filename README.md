@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Brandon</h1>
+<h1 align="center">Hi 👋, I'm Brandon Kincaid</h1>
 <h3 align="center">A programmer who's currently learning front and back-end development.</h3>
 
 - 🔭 I’m currently working on [Around the US](https://aardvark-park.github.io/se_project_aroundtheus/)
