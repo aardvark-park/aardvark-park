@@ -3,12 +3,12 @@
 
 - 🔭 I’m currently working on [Around the US](https://aardvark-park.github.io/se_project_aroundtheus/)
 
-- 🌱 I’m currently learning **in tripleten**
+- 🌱 I’m currently learning **in TripleTen**
 
 - 📫 How to reach me **kincaid.brandon@live.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left"> <a href="https://www.linkedin.com/in/brandon-is-software-engineering/" target="_blank" rel="noreferrer"> <img src="https://content.linkedin.com/content/dam/brand/site/img/logo/logo-hero.png" alt="LinkedIn logo" width="80" height="40"> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
