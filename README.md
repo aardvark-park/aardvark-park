@@ -8,7 +8,7 @@
 - 📫 How to reach me **kincaid.brandon@live.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left"> <a href="https://www.linkedin.com/in/brandon-is-software-engineering/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="LinkedIn logo" width="100" height="40"> </a>
+<p align="left"> <a href="https://www.linkedin.com/in/brandon-is-software-engineering/" target="_blank" rel="noreferrer"> <img src="https://cdn.freebiesupply.com/logos/large/2x/linkedin-icon-logo-png-transparent.png" alt="LinkedIn logo" width="80" height="80"> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
